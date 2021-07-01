@@ -20,3 +20,5 @@
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_SEE_ORDERS', 'È possibile visualizzare lo stato del tuo ordine in qualsiasi momento nel tuo account<a href="%s">Visualizza ordini</a> pagina.');
 
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_CONTACT_STORE_OWNER', 'Si prega di inoltrare tutte le domande che potete avere per noi il nostro <a href="%s">Contattaci</a> pagina.');
+
+

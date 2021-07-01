@@ -16,3 +16,4 @@
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_PRODUCT_NOTIFICATIONS_TEXT_NOTIFY_PRODUCTS_TITLE', 'Notifiche Prodotto');
 
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_PRODUCT_NOTIFICATIONS_TEXT_NOTIFY_PRODUCTS', 'Per favore mi informi gli aggiornamenti di prodotti che ho scelto qui di seguito:');
+?>
