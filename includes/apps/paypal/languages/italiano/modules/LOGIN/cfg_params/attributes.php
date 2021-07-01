@@ -1,0 +1,29 @@
+cfg_login_attributes_title = Informazioni richieste dai clienti
+cfg_login_attributes_desc = Gli attributi che il cliente deve condividere con te.
+
+cfg_login_attributes_group_personal = Informazione personale
+cfg_login_attributes_group_address = Informazioni sull'indirizzo
+cfg_login_attributes_group_account = Informazioni Profilo
+cfg_login_attributes_group_checkout = Cassa Veloce
+
+cfg_login_attributes_attribute_full_name = Nome Completo
+cfg_login_attributes_attribute_date_of_birth = Data di Nascita
+cfg_login_attributes_attribute_age_range = Fascia di età
+cfg_login_attributes_attribute_gender = Sesso
+
+cfg_login_attributes_attribute_email_address = Indirizzo E-Mail 
+cfg_login_attributes_attribute_street_address = Indirizzo fisico
+cfg_login_attributes_attribute_city = Città
+cfg_login_attributes_attribute_state = Provincia
+cfg_login_attributes_attribute_country = Paese
+cfg_login_attributes_attribute_zip_code = cap
+cfg_login_attributes_attribute_phone = Numero Telefono
+
+cfg_login_attributes_attribute_account_status = Stato Profilo (Verificato)
+cfg_login_attributes_attribute_account_type = Tipo profilo
+cfg_login_attributes_attribute_account_creation_date = Data creazione profilo
+cfg_login_attributes_attribute_time_zone = Fuso orario
+cfg_login_attributes_attribute_locale = Locale
+cfg_login_attributes_attribute_language = Lingua
+
+cfg_login_attributes_attribute_seamless_checkout = Pagamento senza registrazione
