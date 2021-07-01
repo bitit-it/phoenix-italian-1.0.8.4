@@ -16,4 +16,3 @@ const ENTRY_MATC_TEXT = 'Cliccando nella casella accetti gli Accordi legali dell
 
 // for the modal popup
 const MATC_BUTTON_CLOSE = 'Chiudi';
-
