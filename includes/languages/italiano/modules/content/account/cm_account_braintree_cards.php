@@ -28,3 +28,4 @@
   define('MODULE_CONTENT_ACCOUNT_BRAINTREE_CARDS_TEXT_NO_CARDS', '<p>Non si accettano carte sono state ancora salvate.</p>');
 
   define('MODULE_CONTENT_ACCOUNT_BRAINTREE_CARDS_SUCCESS_DELETED', 'La scheda è stata eliminata con successo.');
+?>
