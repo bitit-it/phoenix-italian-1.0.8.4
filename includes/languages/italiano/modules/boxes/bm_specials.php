@@ -14,3 +14,4 @@
   define('MODULE_BOXES_SPECIALS_DESCRIPTION', 'Mostra prodotto nella sezione \'speciali\'');
  
   define('MODULE_BOXES_SPECIALS_BOX_TITLE', 'Speciali');
+?>

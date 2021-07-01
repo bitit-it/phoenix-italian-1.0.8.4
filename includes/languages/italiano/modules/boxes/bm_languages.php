@@ -13,4 +13,3 @@
   define('MODULE_BOXES_LANGUAGES_TITLE', 'Lingue');
   define('MODULE_BOXES_LANGUAGES_DESCRIPTION', 'Mostra lingue disponibili');
   define('MODULE_BOXES_LANGUAGES_BOX_TITLE', 'Lingue');
-

@@ -18,3 +18,4 @@
   define('MODULE_BOXES_SHOPPING_CART_BOX_CART_EMPTY', '0 prodotti');
   
   define('MODULE_BOXES_SHOPPING_CART_BOX_CART_TOTAL', '<span class="cart-value">%s</span>');
+?>

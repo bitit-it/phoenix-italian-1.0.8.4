@@ -13,3 +13,4 @@
   define('MODULE_BOXES_ORDER_HISTORY_TITLE', 'Storico Ordine');
   define('MODULE_BOXES_ORDER_HISTORY_DESCRIPTION', 'Mostra i prodotti ordinati in precedenza dal cliente registrato');
   define('MODULE_BOXES_ORDER_HISTORY_BOX_TITLE', 'Storico Ordine');
+

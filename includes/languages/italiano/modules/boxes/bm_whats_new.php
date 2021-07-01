@@ -13,4 +13,4 @@
   define('MODULE_BOXES_WHATS_NEW_TITLE', 'Cosa c\'e\' di nuovo');
   define('MODULE_BOXES_WHATS_NEW_DESCRIPTION', 'Mostra i nuovi prodotti');
   define('MODULE_BOXES_WHATS_NEW_BOX_TITLE', 'Cosa c\'e\' di nuovo?');
-
+?>
