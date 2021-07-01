@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -22,6 +22,6 @@
   define('MODULE_NAVBAR_ACCOUNT_EDIT', 'Le mie dati');
   define('MODULE_NAVBAR_ACCOUNT_ADDRESS_BOOK', 'I miei indirizzi');
   define('MODULE_NAVBAR_ACCOUNT_PASSWORD', 'La mia Password');
-  define('MODULE_NAVBAR_ACCOUNT_REGISTER', '<i class="fa fa-pencil"></i> Registra');
+  define('MODULE_NAVBAR_ACCOUNT_REGISTER', '<i class="fas fa-fw fa-pencil-alt"></i> Registra');
 
   
