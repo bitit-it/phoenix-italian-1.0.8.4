@@ -1,18 +1,18 @@
 <?php
 /*
-  $Id:  01/11/2020
-  
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  $Id$
 
-  Copyright (c) 2002 osCommerce 
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Released under the GNU General Public License 
+  Copyright (c) 2021 Phoenix Cart
+
+  Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Condizioni per l\'uso');
-define('HEADING_TITLE', 'Condizioni per l\'uso');
-
-define('TEXT_INFORMATION', 'Le presenti condizioni generali di vendita e di consegna si applicano a tutti i contratti di acquisto che sono inclusi con il Web Shop Shop, Bertil Palmqvist. Ordinando si accettano questi termini e condizioni. <br /> <br />
-Vedere il testo integrale in lingua svedese o inglese, cliccando sulla bandiera del paese nella colonna di destra. È quindi possibile tornare alla lingua cliccando sulla bandiera del paese.');
+define('NAVBAR_TITLE', 'Condizioni di acquisto');
  
+ /*
+Define the Title and Text of this page using the Info Pages Manager.
+Admin > Tools > Info Pages
+*/

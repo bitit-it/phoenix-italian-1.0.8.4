@@ -21,4 +21,4 @@ define('TEXT_NO_RESET_LINK_FOUND', 'Errore: Il link per reimpostare la password 
 define('TEXT_NO_EMAIL_ADDRESS_FOUND', 'Errore: L\'E-mail non è nei nostri archivi, si prega di riprovare.');
 
 define('SUCCESS_PASSWORD_RESET', 'La tua password è stata aggiornata. Effettua il login con la nuova password.');
-
+?>

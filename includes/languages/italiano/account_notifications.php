@@ -1,6 +1,6 @@
 <?php
 /*
-  $Id:  
+  $Id: account_notifications.php,v 1.1 2003/05/19 19:55:45 hpdl Exp $
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
@@ -26,4 +26,4 @@ define('NOTIFICATIONS_DESCRIPTION', 'Per rimuovere una notifica prodotto, selezi
 define('NOTIFICATIONS_NON_EXISTING', 'Attualmente non hai prodotti selezionati dei quali ricevere notizie.<br><br>Per aggiungere prodotti alla tua lista di notifiche, clicca sul link di notifica che trovi nella pagina dei dettagli del prodotto.');
 
 define('SUCCESS_NOTIFICATIONS_UPDATED', 'La tua lista di notifiche prodotti è stata aggiornata con successo.');
- 
+?>

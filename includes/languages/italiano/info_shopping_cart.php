@@ -1,6 +1,6 @@
 <?php
 /*
-  $Id:  01/11/2020
+  $Id: info_shopping_cart.php,v 1.4 2002/11/19 01:48:08 dgw_ Exp $
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
@@ -18,3 +18,4 @@ define('SUB_HEADING_TEXT_1', 'Ad ogni visitatore del nostro negozio sarà attrib
 define('SUB_HEADING_TEXT_2', 'Ad ogni membro del nostro negozio è attribuito un \'Carrello membri\'. Questo permette ai membri di aggiungere i prodotti ad un loro carrello che rimarrà sempre anche dopo svariato tempo i nostri membri troveranno il  loro carrello csi come l\' hanno lasciato.');
 define('SUB_HEADING_TEXT_3', 'Se un membro aggiunge un prodotto al \'Carrello visitatore\' e poi decide di entrare usando il \'Carrello membri\', il contenuto del  \'Carrello visitatore\' sarà inserito nel \'Carrello membri\' automaticamente.');
 define('TEXT_CLOSE_WINDOW', '[ Chiudi finestra ]');
+?>

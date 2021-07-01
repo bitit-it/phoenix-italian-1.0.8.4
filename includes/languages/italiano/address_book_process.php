@@ -36,3 +36,4 @@ define('WARNING_PRIMARY_ADDRESS_DELETION', 'L\'indirizzo primario non può esser
 
 define('ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY', 'L\'indirizzo non esiste nella tua rubrica.');
 define('ERROR_ADDRESS_BOOK_FULL', 'La tua rubrica è piena. Cancella gli indirizzi non necessari per salvare il nuovo.');
+?>

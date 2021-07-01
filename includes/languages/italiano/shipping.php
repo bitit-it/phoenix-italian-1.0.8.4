@@ -1,17 +1,18 @@
 <?php
 /*
-  $Id: 
-  
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  $Id$
 
-  Copyright (c) 2002 osCommerce 
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Released under the GNU General Public License 
-   
+  Copyright (c) 2021 Phoenix Cart
+
+  Released under the GNU General Public License
 */
 
 define('NAVBAR_TITLE', 'Spedizioni e recesso');
-define('HEADING_TITLE', 'Spedizioni e recesso');
 
-define('TEXT_INFORMATION', 'Inserire Spedizioni Resi e info qui!');
+/*
+Define the Title and Text of this page using the Info Pages Manager.
+Admin > Tools > Info Pages
+*/

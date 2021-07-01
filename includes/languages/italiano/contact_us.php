@@ -25,4 +25,4 @@ define('ENTRY_ENQUIRY_TEXT', '');
 define('ERROR_ACTION_RECORDER', 'Errore: il messaggio è già stato inviato. Riprova fra %s minuti.
 ');
 
-
+?>

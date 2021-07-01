@@ -1,6 +1,6 @@
 <?php
 /*
-  $Id: 
+  $Id: checkout_payment.php,v 1.14 2003/02/06 17:38:16 thomasamoulton Exp $
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
@@ -22,3 +22,5 @@ define('TABLE_HEADING_PAYMENT_METHOD', 'Metodo di pagamento');
 define('TEXT_ENTER_PAYMENT_INFORMATION', 'Questo è il metodo di pagamento che hai scelto per questo ordine.');
 
 define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Continua l\'acquisto');
+
+?>

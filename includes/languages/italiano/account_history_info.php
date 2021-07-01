@@ -1,13 +1,13 @@
 <?php
 /*
-  $Id$
+  $Id: account_history_info.php,v 1.17 2003/06/05 15:43:49 dgw_ Exp $
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2018 osCommerce
+  Copyright (c) 2002 osCommerce 
 
-  Released under the GNU General Public License
+  Released under the GNU General Public License 
 */
 
 define('NAVBAR_TITLE_1', 'Il mio Account');
@@ -38,3 +38,4 @@ define('TEXT_NO_COMMENTS_AVAILABLE', 'Nessun commento.');
 define('TABLE_HEADING_DOWNLOAD_DATE', 'Scadenza Link: ');
 define('TABLE_HEADING_DOWNLOAD_COUNT', ' Downloads rimasti.');
 define('HEADING_DOWNLOAD', 'Download links');
+?>

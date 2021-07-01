@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2018 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -17,4 +17,4 @@ define('TEXT_INFORMATION', 'Abbiamo notato che il tuo browser ha generato un dif
 
 define('BOX_INFORMATION_HEADING', 'Privacy e sicurezza');
 define('BOX_INFORMATION', 'Noi convalidiamo la SSL Session ID automaticamente generata dal tuo browser su ognuna della pagine sicure richieste su questo server.<br><br>La convalida assicura che sei proprio tu che stai navigando con il tuo account e non qualcun\'altro da un\'altro computer.');
-?>
+

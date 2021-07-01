@@ -14,3 +14,5 @@ define('NAVBAR_TITLE_1', 'Cassa');
 define('NAVBAR_TITLE_2', 'Completato');
 
 define('TABLE_HEADING_COMMENTS', 'Inserisci un commento per  l\'ordine processato'); 
+
+?>

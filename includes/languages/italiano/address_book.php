@@ -1,13 +1,13 @@
 <?php
 /*
-  $Id$
+  $Id: address_book.php,v 1.7 2003/05/19 20:17:50 hpdl Exp $
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2003 osCommerce
+  Copyright (c) 2002 osCommerce 
 
-  Released under the GNU General Public License
+  Released under the GNU General Public License 
 */
 
 define('NAVBAR_TITLE_1', 'Il mio account');
@@ -23,3 +23,4 @@ define('ADDRESS_BOOK_TITLE', 'Elenco degli indirizzi');
 define('PRIMARY_ADDRESS', '(indirizzo primario)');
 
 define('TEXT_MAXIMUM_ENTRIES', '<font color="#ff0000"><b>NOTA:</b></font> E\' consentito un massimo di %s indirizzi.');
+?>

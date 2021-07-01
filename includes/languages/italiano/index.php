@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2007 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -22,7 +22,7 @@ define('TEXT_ALL_MANUFACTURERS', 'Tutti i Prodotti');
 
 // seo
 if ( ($category_depth == 'top') && (!isset($_GET['manufacturers_id'])) ) {
-  define('META_SEO_TITLE', 'Index Page Title');
+  define('META_SEO_TITLE', 'Index Page Titolo');
   define('META_SEO_DESCRIPTION', 'desto descrizione');
 }
 

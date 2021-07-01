@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2018 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -17,4 +17,4 @@ define('TEXT_INFORMATION', 'Abbiamo notato che il tuo browser non supporta i coo
 
 define('BOX_INFORMATION_HEADING', 'Cookie, Privacy e Sicurezza');
 define('BOX_INFORMATION', 'Il supporto Cookies deve essere abilitato per comprare online su questo negozio per to garantire la privacy e la sicurezza nella visita sul sito.<br><br>Abilitando il supporto ai cookies sul tuo browser potrà avvenire la comunicazione tra il nostro sito e il tuo computer, garantenzo la vostra e la nostra privacy e sicurezza, e un sicuro scambio di informazioni.');
-
+?>

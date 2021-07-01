@@ -16,3 +16,4 @@ define('NAVBAR_TITLE_2', 'Modifica account');
 define('HEADING_TITLE', 'Informazioni sul mio account');
 
 define('SUCCESS_ACCOUNT_UPDATED', 'Il tuo account è stato modificato con successo.');
+?>

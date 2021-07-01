@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -13,7 +13,7 @@
 define('NAVBAR_TITLE_1', 'Acquista');
 define('NAVBAR_TITLE_2', 'Cambia l\'indirizzo per la fattura');
 
-define('HEADING_TITLE', 'Informazioni di pagamento');
+define('HEADING_TITLE', 'Scelta pagamento');
 
 define('TABLE_HEADING_PAYMENT_ADDRESS', 'Indirizzo per la fattura');
 

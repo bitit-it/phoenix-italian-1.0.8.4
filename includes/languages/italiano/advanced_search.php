@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -39,7 +39,10 @@ define('TEXT_ALL_CATEGORIES', 'Tutte le categorie');
 define('TEXT_ALL_MANUFACTURERS', 'Tutti i produttori');
 
 define('HEADING_SEARCH_HELP', 'Aiuto ricerca');
-define('TEXT_SEARCH_HELP', 'Le parole chiave devono essere separate da AND oppure OR per stabilire un buon controllo dei risultati.<br><br>Per esempio, <u>Microsoft AND mouse</u> genererà risultati che conterranno entrambe le parole. Invece, inserendo <u>mouse OR keyboard</u>, si genererà una lista che contiene prodotti che hanno sia entrambe le parole oppure una delle due..<br><br>E\' inoltre possibile visualizzare i risultati esatti comprendendo le parole fra virgolette..<br><br>Per esempio, <u>\"notebook computer\"</u> si otterrà una lista di prodotti che hanno la stringa esatta al loro interno.<br><br>Le parentesi possono essere usate per controllare l\'ordine degli operatori logici.<br><br>Per esempio, è possibile inserire <u>Microsoft and (tastiere or mouse or \"visual basic\")</u>.');
+const TEXT_SEARCH_HELP = <<<'EOT'
+Le parole chiave devono essere separate da AND oppure OR per stabilire un buon controllo dei risultati.<br><br>Per esempio, <u>Microsoft AND mouse</u> genererà risultati che conterranno entrambe le parole. Invece, inserendo <u>mouse OR keyboard</u>, si genererà una lista che contiene prodotti che hanno sia entrambe le parole oppure una delle due..<br><br>E\' inoltre possibile visualizzare i risultati esatti comprendendo le parole fra virgolette..<br><br>Per esempio, <u>\"notebook computer\"</u> si otterrà una lista di prodotti che hanno la stringa esatta al loro interno.<br><br>Le parentesi possono essere usate per controllare l\'ordine degli operatori logici.<br><br>Per esempio, è possibile inserire <u>Microsoft and (tastiere or mouse or \"visual basic\")</u>.
+EOT;
+
 define('TEXT_CLOSE_WINDOW', '<u>Chiudi finestra</u> [x]');
 
 define('TEXT_NO_PRODUCTS', 'Non ci sono prodotti che soddisfano i vincoli di ricerca.');
@@ -53,6 +56,5 @@ define('ERROR_PRICE_TO_MUST_BE_NUM', 'Il campo \"Al prezzo\"  deve essere un num
 define('ERROR_PRICE_TO_LESS_THAN_PRICE_FROM', 'Il campo \"Al prezzo\" deve essere maggiore o uguale al campo \"Dal prezzo\".');
 define('ERROR_INVALID_KEYWORDS', 'Parole chiave non valide.');
 
-// text for date of birth example
-define('DOB_FORMAT_STRING', 'dd/mm/yyyy');
+const DATE_FORMAT_STRING = 'mm/dd/yyyy';
 

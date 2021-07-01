@@ -1,6 +1,6 @@
 <?php
 /*
-  $Id$    edit 01/11/2020
+  $Id$
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
@@ -8,7 +8,6 @@
   Copyright (c) 2012 osCommerce
 
   Released under the GNU General Public License
-
 */
 
 define('NAVBAR_TITLE_1', 'Accedi');
@@ -29,4 +28,4 @@ define('ERROR_ACTION_RECORDER', 'Errore: Un link per reimpostare la password è 
 
 define('IMAGE_BUTTON_RESET_PASSWORD', 'Reimposta la Password');
 
-
+?>

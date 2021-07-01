@@ -35,3 +35,4 @@ define('HEADING_QTY', 'Qtà');
 
 define('LIST_PRODUCTS', 'Prodotti');
 define('ORDER_DETAILS', 'Dettagli Ordine');
+?>
