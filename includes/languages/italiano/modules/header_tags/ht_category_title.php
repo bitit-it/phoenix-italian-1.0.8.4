@@ -12,4 +12,5 @@
 
   define('MODULE_HEADER_TAGS_CATEGORY_TITLE_TITLE', 'Titolo Categoria');
   define('MODULE_HEADER_TAGS_CATEGORY_TITLE_DESCRIPTION', 'Aggiungi il titolo della categoria corrente al titolo della pagina');
-    define('MODULE_HEADER_TAGS_CATEGORY_SEO_SEPARATOR', ' | ');
+
+  define('MODULE_HEADER_TAGS_CATEGORY_SEO_SEPARATOR', ' | ');
