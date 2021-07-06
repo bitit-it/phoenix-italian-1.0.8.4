@@ -99,8 +99,8 @@ const TEXT_COPY_AS_LINK =  'Copia come Link';
 const TEXT_COPY_AS_DUPLICATE =  'Copia come duplicato';
 
 const ERROR_CANNOT_LINK_TO_SAME_CATEGORY =  'Errore: Non puoi linkare i prodotti nella stessa Categoria.';
-const ERROR_CATALOG_IMAGE_DIRECTORY_NOT_WRITEABLE =  'Errore: La Directory del Catalogo delle Immagini non &egrave; scrivibile: ' . DIR_FS_CATALOG_IMAGES;
-const ERROR_CATALOG_IMAGE_DIRECTORY_DOES_NOT_EXIST =  'Errore: La Directory del Catalogo delle Immagini non esiste: ' . DIR_FS_CATALOG_IMAGES;
+const ERROR_CATALOG_IMAGE_DIRECTORY_NOT_WRITEABLE =  'Errore: La Directory del Catalogo delle Immagini non &egrave; scrivibile:  %s';
+const ERROR_CATALOG_IMAGE_DIRECTORY_DOES_NOT_EXIST =  'Errore: La Directory del Catalogo delle Immagini non esiste:  %s';
 const ERROR_CANNOT_MOVE_CATEGORY_TO_PARENT =  'Errore: Questa categoria non pu&ograve; essere mossa in usa sotto-categoria.';
 
 const TEXT_CATEGORIES_DESCRIPTION =  'Descrizione Categoria:<br><small>Mostrata nelle pagine Categoria</small>';
