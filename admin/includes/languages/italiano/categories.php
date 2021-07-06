@@ -37,8 +37,8 @@ const TEXT_DATE_AVAILABLE =  'Data disponibilità;:';
 
 const TEXT_LAST_MODIFIED =  'Ultima modifica:';
 const TEXT_IMAGE_NONEXISTENT =  'L\'IMMAGINE NON ESISTE';
-const TEXT_NO_CHILD_CATEGORIES_OR_PRODUCTS =  'Inserire una nuova categoria o un nuovo prodotto in <br>&nbsp;<br><b>%s</b>';
-const TEXT_PRODUCT_DATE_ADDED =  'Questo prodotto &egrave; stato aggiunto al catalogo il %s.';
+const TEXT_NO_CHILD_CATEGORIES_OR_PRODUCTS =  'Inserire una nuova categoria o un nuovo prodotto in questo livello';
+const TEXT_PRODUCT_DATE_ADDED =  'Questo prodotto &egrave; stato aggiunto al catalogo il ';
 const TEXT_PRODUCT_DATE_AVAILABLE =  'Questo prodotto sarà; disponibile il%s.';
 
 const TEXT_EDIT_INTRO =  'Eseguire i cambiamenti necessari';
